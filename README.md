@@ -9,7 +9,6 @@
 ![](https://img.shields.io/github/languages/code-size/shijiansu/data-visualization-dashboard)
 ![](https://img.shields.io/github/repo-size/shijiansu/data-visualization-dashboard)
 ![](https://img.shields.io/github/last-commit/shijiansu/data-visualization-dashboard?color=red)
-
 ![](https://github.com/shijiansu/data-visualization-dashboard/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
