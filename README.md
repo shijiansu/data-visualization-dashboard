@@ -1,14 +1,14 @@
-# dashboard-101
+# data-dashboard
 
 ![](https://img.shields.io/badge/language-markdown-blue)
 ![](https://img.shields.io/badge/technology-dashboard-blue)
 ![](https://img.shields.io/badge/development%20year-2021-orange)
 
-![](https://img.shields.io/github/languages/top/shijiansu/dashboard-101)
-![](https://img.shields.io/github/languages/count/shijiansu/dashboard-101)
-![](https://img.shields.io/github/languages/code-size/shijiansu/dashboard-101)
-![](https://img.shields.io/github/repo-size/shijiansu/dashboard-101)
-![](https://img.shields.io/github/last-commit/shijiansu/dashboard-101?color=red)
+![](https://img.shields.io/github/languages/top/shijiansu/data-dashboard)
+![](https://img.shields.io/github/languages/count/shijiansu/data-dashboard)
+![](https://img.shields.io/github/languages/code-size/shijiansu/data-dashboard)
+![](https://img.shields.io/github/repo-size/shijiansu/data-dashboard)
+![](https://img.shields.io/github/last-commit/shijiansu/data-dashboard?color=red)
 
 ## Outline
 
